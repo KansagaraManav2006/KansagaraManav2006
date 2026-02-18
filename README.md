@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My Digital Space
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manav+Kansagara;Full+Stack+Developer;Passionate+Student;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manav+Kansagara;Passionate+Student;Always+Learning+New+Things" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KansagaraManav2006&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
