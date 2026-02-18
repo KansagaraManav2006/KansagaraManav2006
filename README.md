@@ -78,54 +78,54 @@ const manav = {
 <tr>
 <td width="50%">
 
-### 🔄 Skill Swap Platform
-A modern platform connecting people to exchange skills and knowledge.
+### 🛡️ Phishing Detection System
+ML-powered system to detect and prevent phishing attacks using machine learning algorithms.
 
 **Tech Stack:**
-- Next.js, TypeScript
-- Firebase (Auth & Database)
-- Tailwind CSS
+- Python
+- Machine Learning
+- Scikit-learn
 
-[View Project →](#)
+[View Project →](https://github.com/KansagaraManav2006/phishing-detection-system)
 
 </td>
 <td width="50%">
 
-### 💰 Expense Tracker Web App
-Smart expense management with real-time analytics and insights.
+### ❤️ Heart Disease Predictor
+Predictive model for heart disease risk assessment using clinical data and ML techniques.
 
 **Tech Stack:**
-- React, JavaScript
-- Firebase/Supabase
-- Chart.js
+- Python, Jupyter Notebook
+- Machine Learning
+- Data Analysis
 
-[View Project →](#)
+[View Project →](https://github.com/KansagaraManav2006/heart_disease_predictor)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏏 IPL Point Table System
-Console-based cricket tournament management system.
+### 🏪 General Store Management
+Web-based inventory and billing system for retail store operations.
 
 **Tech Stack:**
-- C++
-- OOP Concepts
-- Data Structures
+- HTML, JavaScript
+- CSS
+- Local Storage
 
-[View Project →](#)
+[View Project →](https://github.com/KansagaraManav2006/generalstoremanagement)
 
 </td>
 <td width="50%">
 
-### 🎓 Student Portal System
-Comprehensive student information management system.
+### 🔄 Skill Swap Platform
+Modern platform connecting people to exchange skills and knowledge.
 
 **Tech Stack:**
-- Java
-- Swing GUI
-- File Handling
+- Next.js, TypeScript
+- Firebase
+- Tailwind CSS
 
 [View Project →](#)
 
